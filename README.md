@@ -41,7 +41,7 @@ The **Spam Detector** is a Java-based email classification system that uses a **
 
 ## Installation
 ```sh
-git clone [(https://github.com/jonnyq8/Spam-Detector.git]
+git clone https://github.com/jonnyq8/Spam-Detector.git
 ```
 1. Open the project in **IntelliJ IDEA, VS Code, or Eclipse**.
 2. Ensure **Java 8+** is installed on your system.
