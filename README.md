@@ -90,5 +90,5 @@ java csci2020u.assignment01.SpamDetectorGUI
 [2] https://en.wikipedia.org/wiki/Naive_Bayes_spam_filtering
 
 ## Authors
-- **Manu Joji John** - Developer
 - **Jonathan Forrester** - Developer 
+- **Manu Joji John** - Developer
